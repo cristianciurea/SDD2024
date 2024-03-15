@@ -1,0 +1,7 @@
+6
+202 Gigel 9.5
+203 Dorel 9.8
+305 Danut 9.7
+405 Vasile 9.2
+505 Georgel 9.9
+707 Georgel 9.9

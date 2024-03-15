@@ -1,0 +1,13 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Source.c(35,44): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Source.c(37,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Source.c(44,20): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Source.c(64,24): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Source.c(80,20): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Source.c(103,23): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Source.c(121,24): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Source.c(120,1): warning C4133: 'initializing': incompatible types - from 'nodCoada *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Source.c(142,20): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Source.c(168,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Source.c(131): warning C4715: 'get': not all control paths return a value
+  Sem4SDD_1062.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\2024\Sem4SDD_1062\Debug\Sem4SDD_1062.exe
