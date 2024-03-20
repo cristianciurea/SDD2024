@@ -1,0 +1,12 @@
+﻿  tabela_chaining.c
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem5SDD_1062\tabela_chaining.c(37,40): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem5SDD_1062\tabela_chaining.c(39,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem5SDD_1062\tabela_chaining.c(48,21): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem5SDD_1062\tabela_chaining.c(49,19): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem5SDD_1062\tabela_chaining.c(57,30): warning C4133: 'function': incompatible types - from 'nodLS **' to 'nodLS **'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem5SDD_1062\tabela_chaining.c(67,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem5SDD_1062\tabela_chaining.c(77,31): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem5SDD_1062\tabela_chaining.c(86,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem5SDD_1062\tabela_chaining.c(97,31): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem5SDD_1062\tabela_chaining.c(105,63): warning C4133: '=': incompatible types - from 'nodLS **' to 'nodLS **'
+  Sem5SDD_1062.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\2024\Sem5SDD_1062\Debug\Sem5SDD_1062.exe
