@@ -1,8 +1,0 @@
-7
-Marcel IT 8500 Programator
-Maricica HR 5500 Analist
-Dorel Contabilitate 4300 Contabil
-Dorina Audit 4500 Analist
-Gigel IT 7500 Tester
-Georgel IT 5700 Tester
-Viorel HR 5200 Analist
