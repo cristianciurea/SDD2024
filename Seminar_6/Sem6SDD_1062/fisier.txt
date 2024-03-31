@@ -1,0 +1,7 @@
+6
+16 Apple 5500
+8 Samsung 3400
+32 Sony 4500
+16 Special 2300
+32 Huawei 2500
+8 Samsung 3500
