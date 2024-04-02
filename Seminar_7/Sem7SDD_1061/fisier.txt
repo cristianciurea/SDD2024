@@ -1,0 +1,7 @@
+6
+15 studiu 2.5
+12 hobby 1.5
+18 somn 8
+19 sport 1.5
+17 masa 1.5
+10 transport 4.5

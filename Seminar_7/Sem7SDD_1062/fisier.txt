@@ -1,0 +1,7 @@
+6
+12 accident 2.5
+10 lovitura 1.5
+15 infarct 0.5
+18 sangerare 0.5
+11 apendicita 4.5
+10 vanataie 4.5

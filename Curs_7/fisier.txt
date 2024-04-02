@@ -1,0 +1,6 @@
+5
+12 cafea 10
+11 utilitati 200
+5 haine 1000
+12 mancare 30
+8 transport 3
