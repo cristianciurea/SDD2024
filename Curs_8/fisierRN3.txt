@@ -1,0 +1,10 @@
+9
+4 Gigel 5
+2 Ionel 6
+6 Dorel 7
+1 Vasile 9
+3 Maricica 8
+5 Marcel 10
+8 Marcel 10
+7 Gigel 5
+9 Vasile 9
