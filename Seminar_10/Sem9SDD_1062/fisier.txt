@@ -1,0 +1,7 @@
+6
+500 Gigel 22 2300.7
+300 Dorel 21 2150
+700 Maricica 45 5700.5
+200 Vasile 55 7500.5
+400 Violeta 32 4999.9
+450 Georgel 21 2100
