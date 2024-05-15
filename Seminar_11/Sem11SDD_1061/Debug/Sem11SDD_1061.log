@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem11SDD_1061\Source.c(25,20): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem11SDD_1061\Source.c(38,24): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem11SDD_1061\Source.c(56,23): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem11SDD_1061\Source.c(67,24): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem11SDD_1061\Source.c(76): warning C4715: 'get': not all control paths return a value
+  Sem11SDD_1061.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\2024\Sem11SDD_1061\Debug\Sem11SDD_1061.exe
