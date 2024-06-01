@@ -1,0 +1,27 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(10,21): warning C4091: 'typedef ': ignored on left of 'nodLP' when no variable is declared
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(29,44): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(31,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(40,21): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(41,19): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(49,18): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(57,21): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(58,19): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(67,20): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(79,50): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(79,60): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(80,48): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(80,59): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(92,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(90,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(103,28): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(104,20): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(113,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(126,29): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(124,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(149,19): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(161,24): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(195,22): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(186,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Source.c(189,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+  Sem12SDD_1061.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\2024\Sem12SDD_1061\Debug\Sem12SDD_1061.exe
